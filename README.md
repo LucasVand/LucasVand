@@ -1,6 +1,6 @@
 # Hey, I'm Lucas 👋
 
-I like building tools that make difficult things feel simple — from developer tooling and language tools to GPU-accelerated simulations and small apps.
+I like building tools that make difficult things feel simple, from developer tooling and language tools to GPU-accelerated simulations and small apps. Always trying to learn more and explore.
 
 ## What I'm working with
 
@@ -8,7 +8,7 @@ I like building tools that make difficult things feel simple — from developer 
 - **wgpu / WGSL** for GPU rendering and compute
 - **TypeScript** for web applications
 - **Swift** for iOS projects
-- **C and C#** for language and game-development experiments
+- **C and C++** for systems and embedded projects
 
 ## Featured projects
 
@@ -17,8 +17,6 @@ I like building tools that make difficult things feel simple — from developer 
 | [lazy-java](https://github.com/LucasVand/lazy-java) | A Cargo-like Java build tool with dependency management, incremental compilation, and Maven interoperability. |
 | [wgpu-utils](https://github.com/LucasVand/wgpu-utils) | Fluent builder utilities for creating wgpu pipelines, buffers, bind groups, and textures. |
 | [fluid](https://github.com/LucasVand/fluid) | A real-time GPU-accelerated SPH fluid simulation built with Rust, wgpu, and WGSL. |
-| [wgsl_lsp](https://github.com/LucasVand/wgsl_lsp) | A language server for WGSL. |
-| [compiler](https://github.com/LucasVand/compiler) | A C-style compiler experiment written in Rust. |
 | [ray-tracer](https://github.com/LucasVand/ray-tracer) | A small ray-tracing project focused on learning rendering fundamentals. |
 
 ## Other things I've built
@@ -31,6 +29,3 @@ I like building tools that make difficult things feel simple — from developer 
 ## Find me
 
 - Browse [all of my repositories](https://github.com/LucasVand?tab=repositories)
-- See what I'm currently shipping in the [activity feed](https://github.com/LucasVand)
-
-![GitHub contribution graph](https://ghchart.rshah.org/LucasVand)
