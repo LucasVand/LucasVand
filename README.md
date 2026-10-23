@@ -17,8 +17,6 @@ I like building tools that make difficult things feel simple, from developer too
 | [lazy-java](https://github.com/LucasVand/lazy-java) | A Cargo-like Java build tool with dependency management, incremental compilation, and Maven interoperability. |
 | [wgpu-utils](https://github.com/LucasVand/wgpu-utils) | Fluent builder utilities for creating wgpu pipelines, buffers, bind groups, and textures. |
 | [fluid](https://github.com/LucasVand/fluid) | A real-time GPU-accelerated SPH fluid simulation built with Rust, wgpu, and WGSL. |
-| [wgsl_lsp](https://github.com/LucasVand/wgsl_lsp) | A language server for WGSL. |
-| [compiler](https://github.com/LucasVand/compiler) | A C-style compiler experiment written in Rust. |
 | [emu](https://github.com/LucasVand/emu) | A Rust emulation project. |
 | [n-body](https://github.com/LucasVand/n-body) | A Barnes-Hut-inspired gravity n-body simulation. |
 
